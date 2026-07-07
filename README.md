@@ -1,7 +1,6 @@
 # HuffPost News Classification with DistilBERT
 
-This project uses DistilBERT to classify HuffPost news articles into topic categories. It was completed as part of my Advanced Machine Learning and AI coursework.
-
+This project uses DistilBERT to classify HuffPost news articles into topic categories. 
 ## Dataset
 
 HuffPost News Category dataset with article headlines, short descriptions, and category labels.
@@ -30,5 +29,5 @@ Python, Pandas, Scikit-learn, PyTorch, Hugging Face Transformers, DistilBERT, Ju
 
 ## Files
 
-- `Final_Project__Technical_Report_Team_8.pdf` - final report
+- Technical Report
 - Notebook file - code and results
