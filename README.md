@@ -1,9 +1,7 @@
-# DX703-HuffPost-News-Analysis-Milestone2
-Group project analyzing HuffPost news headlines dataset for DX703 Milestone 2
+### HuffPost News Category Classification with DistilBERT
 
-Team 8
+Built a multiclass NLP classification model using DistilBERT to classify HuffPost news articles into topic categories. The project included text preprocessing, label merging, stratified splitting, class weighting, transformer fine-tuning, and model evaluation using accuracy, macro F1, weighted F1, and per-class metrics.
 
-Members: Alex Fok, Siam Wong, Usha Priya Krishnasamy 
+**Skills:** Python, NLP, DistilBERT, Hugging Face Transformers, PyTorch, Scikit-learn, Model Evaluation
 
-Dataset : HuffsPost 
-In Milestone 1, your team selected a dataset (HuffPost), analyzed its structure, and identified key challenges and evaluation metrics. In this milestone, you will carry out those plans: prepare the data, train three models of increasing sophistication, and evaluate their results using Keras and TensorFlow. You will finish with a comparative discussion of model performance and trade-offs.
+[View Project](https://github.com/ushak1984/news-category-classification-distilbert)
