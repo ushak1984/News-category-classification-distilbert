@@ -14,14 +14,7 @@ HuffPost News Category dataset with article headlines, short descriptions, and c
 - Handled class imbalance with class weights
 - Fine-tuned a DistilBERT model
 - Evaluated results using accuracy, macro F1, and weighted F1
-
-## Results
-
-| Metric | Score |
-|---|---:|
-| Accuracy | 0.6547 |
-| Macro F1 | 0.5845 |
-| Weighted F1 | 0.6676 |
+ 
 
 ## Tools
 
